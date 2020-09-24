@@ -3,6 +3,7 @@ a test
 <<<<<<< HEAD
 This is the edited version. Much better than the unedited version :)
 =======
+![This is my image](IMG_59988)
 ## header
 # header
 #### header
